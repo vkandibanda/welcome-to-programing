@@ -1,0 +1,6 @@
+print ("welcome to programing")
+print (9)
+print ("hello",15)
+print ("hello \n")
+print ("welcome to",end=" ")
+print ("programing")
